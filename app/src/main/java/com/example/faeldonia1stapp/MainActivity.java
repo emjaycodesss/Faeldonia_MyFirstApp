@@ -37,14 +37,14 @@ Button myClear;
         myButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                myDisplay.setText("Hello MJ!");
+                myDisplay.setText("HELLO ANON!");
             }
         });
 
         myClear.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                myDisplay.setText("Hello!");
+                myDisplay.setText("YOU AGAIN?!?!");
             }
         });
     }
